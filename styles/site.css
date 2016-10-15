@@ -1,0 +1,30 @@
+/*STYLE SHEET FOR RYAN'S SITE*/
+
+body             
+{			
+font-family:arial, verdana, helvetica; 
+color:black; 
+font-size:14px; 
+background-color:lawngreen;
+}
+
+h1             
+{
+font-family:arial, sans-serif; 
+color:blue; 
+font-size:32px;
+} 
+
+h2             
+{			
+font-family:arial, sans-serif; 
+color:black; 
+font-size:27px;
+} 
+
+h3             
+{
+font-family:arial, sans-serif; 
+color: black; 
+font-size:16px;
+} 
